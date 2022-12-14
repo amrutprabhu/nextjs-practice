@@ -1,5 +1,4 @@
 import Navigation from '../components/Navigation'
-import Users from '../components/users'
 export default function Home() {
    
   return (
